@@ -6,7 +6,7 @@ Flappy Dragon is a 2D arcade-style game inspired by Flappy Bird, developed using
 
 ## Demo
 
-[Watch Gameplay](your-video-link)
+[Watch Gameplay](https://github.com/SamhitReddy5/Flappy_Dragon/blob/main/Flappy%20Dragon%20Gameplay.mp4)
 
 ---
 
